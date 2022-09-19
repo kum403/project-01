@@ -48,6 +48,7 @@ form input{
 .main-wrapper,
 section {
     padding: 0 2rem;
+    display:none;
 }
 
 .for-desktop {
@@ -473,8 +474,8 @@ td a {
         border:2px solid rgb(235, 227, 227);
         box-shadow:0 2px 1rem rgb(65, 60, 60);
         position:absolute;
-        right:2rem;
-        left:auto;
+        right:0rem;
+   
         top:6rem;
         width:fit-content;
         z-index:-999;

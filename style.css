@@ -45,7 +45,8 @@ form input{
     border-radius:0.5rem;
     color:white;
 }
-.main-wrapper,
+.main-
+,
 section {
     padding: 0 2rem;
     display:none;
@@ -429,6 +430,7 @@ td a {
 
     .main-wrapper {
         padding: 0 5rem;
+        display:none;
     }
 
     table {
